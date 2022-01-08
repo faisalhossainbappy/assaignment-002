@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+
+}
+.Mission{
+    display: flex;
+    margin-left: 70px;
+}
+.Mission img{
+    width: 70%;
+    margin-left: 35px;
+}
+.mission-text{
+    width: 50%;
+    margin-top: 90px;
+}
+.mission-img{
+    width: 50%;
+}
+h1{
+    font-size: 50px;
+    line-height: 30px;
+}
+p{
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+    background-color: #EE3898;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+}
+.new-color{
+    color: skyblue;
+}
+.my-mission-h1{
+    text-align: center;
+}
+.my-mission{
+    display: flex;
+}
+.my-mission-1{
+    width: 25%;
+    background-color: salmon;
+    margin-right: 20px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-left: 65px;
+}
+.my-mission-2{
+    width: 25%;
+    background-color: rgba(0, 255, 13, 0.664);
+    margin-right: 20px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    
+}
+.my-mission-3{
+    width: 25%;
+    background-color: rgba(27, 230, 213, 0.253);
+    padding: 10px 20px;
+    border-radius: 20px;
+    
+}
+
+.my-mission img{
+    width: 38%;
+}
+.develop-img{
+    width: 35%;
+}
+.develop-text{
+    width: 65%;
+    padding-left: 50px;
+}
+.develop{
+    display: flex;
+}
+.develop img{
+    width: 100%;
+}
+
+.global{
+    display: flex;
+}
+.global-img{
+    width: 35%;
+}
+.global-text{
+    width: 65%;
+    padding-right: 50px;
+}
+.global img{
+    width: 100%;
+}
+.footer-part{
+    text-align: center;
+    background-color: thistle;
+    padding-top: 35px;
+    padding-bottom: 35px;
+
+}
+
+
